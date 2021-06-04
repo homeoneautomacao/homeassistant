@@ -1,2 +1,3 @@
+homeone_check_file_exists: OK
 homeone_ha_stable_version_core: core-2021.5.3
 homeone_ha_stable_version_supervisor: supervisor-2021.05.3
